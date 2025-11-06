@@ -1,2 +1,2 @@
-# DeepGuard
-AI-based Deepfake Video and Audio Detector for HackVerse 2025
+# VeriScan
+REAL TIME DEEPFAKE VIDEO AND AUDIO DETECTOR.
